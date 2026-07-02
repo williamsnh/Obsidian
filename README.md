@@ -1,3 +1,3 @@
 # Obsidian
 
-Ça marche!
+Notes sync with Obsidian
