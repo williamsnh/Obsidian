@@ -8,3 +8,7 @@ Lorsque mb1_print_hex(high); mb1_print_hex(low);
 
 ![[Pasted image 20260702122535.png|407]]
 L213 : *high = enc_read_reg(MIRDH & 0x1F);
+
+
+**Code Project :**
+![[Pasted image 20260702123257.png]]
