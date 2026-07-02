@@ -19,4 +19,4 @@
 **S3 :**
 - Debut du projet SPI Ethernet
 --> Commit 1: Initialisation du SPI + soft reset + EREVID read OK (0x06) via UART
---> Commit 2: ETH Configura
+--> Commit 2: ETH Configuration
