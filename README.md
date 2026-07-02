@@ -1,3 +1,3 @@
 # Obsidian
 
-Notes sync with Obsidian
+Notes sync vault with Obsidian
