@@ -17,3 +17,6 @@ L509 : *enc28j60_write_reg(MICMD, 0x00);
 
 ![[Pasted image 20260702123257.png]]
 L512 : *high = enc28j60_read_reg(MIRDH);
+
+![[Pasted image 20260702130027.png]]
+
