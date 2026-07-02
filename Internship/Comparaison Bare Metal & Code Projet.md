@@ -22,3 +22,6 @@ L512 : *high = enc28j60_read_reg(MIRDH);
 
 
 ![[Pasted image 20260702130943.png]]
+
+![[Pasted image 20260702131029.png]]
+
