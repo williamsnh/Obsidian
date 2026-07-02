@@ -11,7 +11,8 @@ L213 : *high = enc_read_reg(MIRDH & 0x1F);
 
 
 **Code Project :**
-
+![[Pasted image 20260702123405.png]]
+L509 : *enc28j60_write_reg(MICMD, 0x00);
 
 
 ![[Pasted image 20260702123257.png]]
