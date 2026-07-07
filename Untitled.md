@@ -17,3 +17,4 @@ cfg.bck = MIKROBUS( mikrobus, MIKROBUS_AN ); \
 cfg.dc = MIKROBUS( mikrobus, MIKROBUS_INT )
 
 - remove spi_master_set_chip_select_polarity(SPI_MASTER_CHIP_SELECT_DEFAULT_POLARITY);
+- 
