@@ -1,0 +1,2 @@
+- change mb1 to logger function
+- initialize spi pins throught mikrobus
