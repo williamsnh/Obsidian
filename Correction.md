@@ -21,7 +21,7 @@ cfg.dc = MIKROBUS( mikrobus, MIKROBUS_INT )
  
 
 - respecter la convention mikrosdk en laissant des espaces entre le parentheses sur :
----> main.c
+==---> main.c==
 --> spi_ethernet.c
 --> spi_ethernet.h
 --> spi_ethernet_enc28j60.c
