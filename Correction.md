@@ -1,4 +1,4 @@
-- change mb1 to logger function
+- ==change mb1 to logger function==
 - ==initialize spi pins throught mikrobus==
 ==-#define IPSDISPLAY2_MAP_MIKROBUS( cfg, mikrobus ) \==
 
@@ -20,7 +20,7 @@
 - ne pas oublier que je vais tester avec plusieurs MCU donc main.c doit appele a chaque fois spi_ethernet_... et pas enc28j60_...
  
 
-- respecter la convention mikrosdk en laissant des espaces entre le parentheses sur :
+- respecter la convention mikrosdk en laissant des espaces entre les parentheses sur :
 ==---> main.c==
 --> spi_ethernet.c
 --> spi_ethernet.h
