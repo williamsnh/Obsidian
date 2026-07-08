@@ -20,5 +20,5 @@ cfg.dc = MIKROBUS( mikrobus, MIKROBUS_INT )
 - ne pas oublier que je vais tester avec plusieurs MCU donc main.c doit appele a chaque fois spi_ethernet_... et pas enc28j60_...
  
 
-- respecter la convention mikroesdk en laissant des espaces entre le parentheses sur :
+- respecter la convention mikrosdk en laissant des espaces entre le parentheses sur :
 ---> 
