@@ -18,4 +18,7 @@ cfg.dc = MIKROBUS( mikrobus, MIKROBUS_INT )
 
 - ==remove spi_master_set_chip_select_polarity(SPI_MASTER_CHIP_SELECT_DEFAULT_POLARITY);==
 - ne pas oublier que je vais tester avec plusieurs MCU donc main.c doit appele a chaque fois spi_ethernet_... et pas enc28j60_...
-- enlever le
+ 
+
+- respecter la convention mikroesdk en laissant des espaces entre le parentheses sur :
+---> 
