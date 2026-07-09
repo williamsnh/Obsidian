@@ -26,4 +26,5 @@
 ==--> spi_ethernet_enc28j60.h==
 
 - Tester le code sur plusieurs MCU (toujours sur UNI DS v8) :
+--> Origin = STM32F429ZIT6
 --> PIC24EP512GU814
