@@ -17,12 +17,12 @@
 ==cfg.dc = MIKROBUS( mikrobus, MIKROBUS_INT )==
 
 - ==remove spi_master_set_chip_select_polarity(SPI_MASTER_CHIP_SELECT_DEFAULT_POLARITY);==
-- ne pas oublier que je vais tester avec plusieurs MCU donc main.c doit appele a chaque fois spi_ethernet_... et pas enc28j60_...
- 
-
+- ==ne pas oublier que je vais tester avec plusieurs MCU donc main.c doit appele a chaque fois spi_ethernet_... et pas enc28j60_...==
 - ==respecter la convention mikrosdk en laissant des espaces entre les parentheses sur :==
 ==---> main.c==
 ==--> spi_ethernet.c==
 ==--> spi_ethernet.h==
 ==--> spi_ethernet_enc28j60.c==
 ==--> spi_ethernet_enc28j60.h==
+
+- Tester le code sur plusieurs MCU :
