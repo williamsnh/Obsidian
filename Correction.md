@@ -25,4 +25,5 @@
 ==--> spi_ethernet_enc28j60.c==
 ==--> spi_ethernet_enc28j60.h==
 
-- Tester le code sur plusieurs MCU :
+- Tester le code sur plusieurs MCU (toujours sur UNI DS v8) :
+--> PIC24EP512GU814
