@@ -24,4 +24,7 @@
 **S4 :**
 - Coding du code projet
 - Code projet pour STM32F429ZIT6 termine!
-- Meme chose pour : 
+- Meme chose pour : PIC24EP512GU814 et dsPIC33FJ256GP710A
+
+**S5 :**
+- Adaptation pour tous les autres MCU

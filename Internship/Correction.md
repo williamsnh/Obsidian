@@ -29,4 +29,4 @@
 ==--> Origin = STM32F429ZIT6==
 ==--> PIC24EP512GU814==
 ==--> dsPIC33FJ256GP710A==
---> 
+--> PIC18F97J94
