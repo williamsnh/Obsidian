@@ -23,3 +23,5 @@
 
 **S4 :**
 - Coding du code projet
+- Code projet pour STM32F429ZIT6 termine!
+- Meme chose pour : 
