@@ -4,3 +4,4 @@ Solution : fermer le fichier sans autre action
 Solution: faire en sorte d'adapter directement le nouveau MCU
 - When Ctrl + F, it disappears if you go to another file. And then, you need to press Ctrl + F again.
 Solution: keep the same Ctrl + F for every file
+- Un bouton pour clear le UART Terminal
