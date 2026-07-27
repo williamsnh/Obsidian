@@ -34,4 +34,5 @@
 - Test de tous les MCU --> OK
 
 **S7 :**
-- Adaptation + Creation du code 
+- Adaptation pour 2 nouvelles puces : W5500 et LAN9252
+- W5500 
