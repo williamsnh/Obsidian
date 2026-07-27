@@ -30,5 +30,6 @@
 - Adaptation pour tous les autres MCU
 
 **S6 :**
+- Test de tous les MCU --> OK
 
 **S7 :**
