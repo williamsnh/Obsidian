@@ -34,11 +34,14 @@ Portage d'une librairie Ethernet SPI (raw frames, sans OS réseau) sur mikroSDK,
 ## Organisation Git
 
 ```
-master
-* new-feature/spi-ethernet   (branche courante, tout le travail SPI Ethernet, ENC28J60 + W5500)
+  master
+* new-feature/chip-lan9252
+  new-feature/chip-w5500
+  new-feature/dhcp-client
+  new-feature/spi-ethernet
 ```
 
-Stratégie : merge simple (pas de rebase, historique traçable). Branches futures créées à partir de `new-feature/spi-ethernet` selon les besoins de test (chip par chip).
+Ici, j'ai cree une nouvelle branche a 
 
 ## Tâche DHCP (mise en pause)
 
