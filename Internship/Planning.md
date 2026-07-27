@@ -35,4 +35,4 @@
 
 **S7 :**
 - Adaptation pour 2 nouvelles puces : W5500 et LAN9252
-- W5500 
+- Creation + Config. fichiers/codes W5500 --> OK
