@@ -30,6 +30,8 @@
 - Adaptation pour tous les autres MCU
 
 **S6 :**
+- Gros blocage erreur PIC18
 - Test de tous les MCU --> OK
 
 **S7 :**
+- Adaptation + Creation du code 
