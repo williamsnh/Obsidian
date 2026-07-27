@@ -7,7 +7,7 @@ Portage d'une librairie Ethernet SPI (raw frames, sans OS réseau) sur mikroSDK,
 ## Matériel
 
 - **Carte** : UNI-DS v8 (socket Sibrain)
-- **MCU portés et validés** : STM32F429ZIT6, PIC24EP512GU814, dsPIC33FJ256GP710A, PIC32MX795F512L, ATMEGA6450V8U, **PIC18F97J94 (XC8)** — tous fonctionnels
+- **MCU portés et validés** : **STM32F429ZIT6**, PIC24EP512GU814, dsPIC33FJ256GP710A, PIC32MX795F512L, ATMEGA6450V8U, PIC18F97J94 (XC8) — tous fonctionnels
 - **Puces Ethernet SPI testées** :
     - **ENC28J60** (ETH Click) — driver de référence, complet (ARP/ICMP/TCP/HTTP validés)
     - **W5500** (ETH Click, mode MACRAW socket 0) — driver ajouté récemment, validé fonctionnel sur PIC18F97J94 (ping/HTTP/ICMP OK)
@@ -41,7 +41,7 @@ Portage d'une librairie Ethernet SPI (raw frames, sans OS réseau) sur mikroSDK,
   new-feature/spi-ethernet
 ```
 
-Ici, j'ai cree une nouvelle branche a 
+Ici, j'ai cree une nouvelle branche a partir de la branche new-feature/spi-ethernet pour le nouveau chip que je vais tester.
 
 ## Tâche DHCP (mise en pause)
 
