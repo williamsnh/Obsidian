@@ -28,3 +28,7 @@
 
 **S5 :**
 - Adaptation pour tous les autres MCU
+
+**S6 :**
+
+**S7 :**
