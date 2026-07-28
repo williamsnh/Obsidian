@@ -7,10 +7,10 @@ Stage : portage d'une librairie Ethernet SPI (trames brutes, sans OS réseau) su
 ## Matériel
 
 - **Carte** : UNI-DS v8 (socket Sibrain)
-- **MCU validés** : STM32F429ZIT6, PIC24EP512GU814, dsPIC33FJ256GP710A, PIC32MX795F512L, ATMEGA6450V8U, **PIC18F97J94 (XC8)**
+- **MCU validés** : STM32F429ZIT6, PIC24EP512GU814, dsPIC33FJ256GP710A, PIC32MX795F512L, ATMEGA6450V8U, PIC18F97J94
 - **Puces SPI Ethernet testées/en cours** :
     - **ENC28J60** (ETH Click) — driver complet et validé, ARP/ICMP/TCP/HTTP fonctionnels
-    - **W5500** (ETH Click, MACRAW socket 0) — driver complet et validé sur PIC18F97J94 (ping/HTTP/ICMP OK)
+    - **W5500** (ETH Click, MACRAW socket 0) — driver complet et validé sur STM32F429ZIT6 (ping/HTTP/ICMP OK)
     - **LAN9252** (EtherCAT Click) — **en cours**, bring-up SPI minimal en cours de finalisation (voir ci-dessous), pas encore de logique EtherCAT réelle
 
 ## Architecture logicielle
@@ -51,7 +51,7 @@ Le LAN9252 n'est **pas** un contrôleur MAC/PHY "trames brutes" mais un **ASIC e
 - **`.reset` volontairement non initialisé** dans le struct `lan9252_driver` (comme ENC28J60/W5500)
 - Macro générique ajoutée dans `spi_ethernet.h` : `#define spi_eth_get_rev lan9252_get_rev` (dans le bloc `#if SPI_ETH_CHIP == LAN9252`)
 
-### Bugs XC8/PIC18 rencontrés et résolus sur ce driver
+### Bugs rencontrés et résolus sur ce driver
 
 1. **Nom de variable `data`** (paramètre ou tableau local) → mot réservé/qualificateur mémoire implicite sur ce toolchain → provoque "Invalid declarator", "'}' expected ';' found" en cascade. **Déjà rencontré deux fois** (W5500 puis LAN9252) → règle à appliquer systématiquement : ne jamais nommer une variable `data` sur ce compilateur.
 2. **Nom de champ struct `.reset`** initialement suspecté comme collision macro (RCON/reset bits PIC18) → retiré du designated initializer par précaution, en cohérence avec ENC28J60/W5500 qui ne l'utilisaient pas non plus.
