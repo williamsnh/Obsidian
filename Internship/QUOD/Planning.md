@@ -36,4 +36,5 @@
 **S7 :**
 - Adaptation pour 2 nouvelles puces : W5500 et LAN9252
 - Creation + Config. fichiers/codes W5500 --> OK
+- Analyse processus EtheerCAT vs Ethernet --> OK
 - Creation + Config. fichiers/codes LAN9252 --> En cours
