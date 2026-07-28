@@ -1,2 +1,2 @@
 - Analyse de la datasheet LAN9252 et des infos a savoir
---> 4 SyncManagers with 2 modes of operations
+--> 4 SyncManagers with 2 modes of operations : buffered mode or mailbox mode
