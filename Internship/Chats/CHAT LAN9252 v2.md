@@ -8,7 +8,7 @@
 - Compilateur : **mikroC AI for ARM**
 - Autres MCU validés avec ce code (via le même socket Sibrain) : **PIC24EP512GU814**, **dsPIC33FJ256GP710A**, **PIC32MX795F512L**, **ATMEGA6450V8U**, **PIC18F97J94**
 - Piège récurrent du compilateur : ne jamais nommer une variable `data` (provoque des erreurs de parsing en cascade) — toujours utiliser `val`/`value` à la place.
-
+	
 **Avancement puces SPI Ethernet** :
 
 1. ✅ **ENC28J60** (ETH Click) — driver complet et validé, ARP/ICMP/TCP/HTTP fonctionnels
