@@ -36,3 +36,7 @@ grep 'millionth' data.txt
 VR1ljMayciFxbnUokuQmJFw6QC9VKtub
 
 lvl9 :
+sort data.txt | uniq -u
+EjmOSvuAu7sGAHqHVcBDPirRe9T03kxl
+
+lvl10 :
