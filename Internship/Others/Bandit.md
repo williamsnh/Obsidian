@@ -32,3 +32,5 @@ find / -size 33c -user bandit7 -group bandit6 (2>/dev/null)
 Bmnnvf82KzQlfxgAI2d1zYbr1u9pr3E3
 
 lvl8 :
+cat data.txt | grep 'millionth'
+VR1ljMayciFxbnUokuQmJFw6QC9VKtub
