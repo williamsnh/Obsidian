@@ -25,4 +25,4 @@ cat ./-file07
 
 lvl6 :
 pXa26xhMWaC2SvDotA4r9EgZkulOeSBW
-find inhere
+find inhere/ -readable ! executable -size 1033c
