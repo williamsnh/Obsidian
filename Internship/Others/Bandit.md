@@ -24,5 +24,11 @@ cat ./-file07
 6C7h9GD8M6ai5nr7wo1RonrzFjj9yIrG
 
 lvl6 :
-pXa26xhMWaC2SvDotA4r9EgZkulOeSBW
 find inhere/ -readable ! executable -size 1033c
+pXa26xhMWaC2SvDotA4r9EgZkulOeSBW
+
+lvl7 :
+find / -size 33c -user bandit7 -group bandit6 (2>/dev/null)
+Bmnnvf82KzQlfxgAI2d1zYbr1u9pr3E3
+
+lvl8 :
