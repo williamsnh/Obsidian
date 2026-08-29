@@ -2,7 +2,7 @@ lvl0 :
 ssh -p 2220 bandit0@bandit.labs.overthewire.org
 
 lvl1 :
- 
+ ls readme
 6y2kwnwK6grgvwvpvLaa2T1cpFEKOhNR
 
 lvl2 :
