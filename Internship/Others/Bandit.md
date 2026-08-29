@@ -40,3 +40,7 @@ sort data.txt | uniq -u
 EjmOSvuAu7sGAHqHVcBDPirRe9T03kxl
 
 lvl10 :
+strings data.txt | grep ===
+B0s2khmbT9u0geKuOoVGW3JZKhndE3BG
+
+lvl11 :
