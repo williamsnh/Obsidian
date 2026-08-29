@@ -44,3 +44,7 @@ strings data.txt | grep ===
 B0s2khmbT9u0geKuOoVGW3JZKhndE3BG
 
 lvl11 :
+base64 -d data.txt 
+pYfOY6HwUsDj5rL9UvyhU7MCmv8vN5Ro
+
+lvl12 :
