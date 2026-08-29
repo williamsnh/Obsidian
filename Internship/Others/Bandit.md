@@ -52,3 +52,5 @@ cat data.txt | tr 'a-zA-Z' 'n-za-mN-ZA-M'
 GROozWPO8QyN0mGrjUkID0WCYkZiQxrN
 
 lvl13 :
+décompression sur décompression
+qQYQiHOBPR8zR61qxYqX45quvihF2uzk
