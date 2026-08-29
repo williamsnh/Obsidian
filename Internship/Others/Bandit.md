@@ -2,7 +2,7 @@ lvl0 :
 ssh -p 2220 bandit0@bandit.labs.overthewire.org
 
 lvl1 :
- ls readme
+ls readme
 6y2kwnwK6grgvwvpvLaa2T1cpFEKOhNR
 
 lvl2 :
@@ -24,3 +24,5 @@ cat ./-file07
 6C7h9GD8M6ai5nr7wo1RonrzFjj9yIrG
 
 lvl6 :
+pXa26xhMWaC2SvDotA4r9EgZkulOeSBW
+find inhere
