@@ -1,5 +1,12 @@
-lvl0 = ssh -p 2220 bandit0@bandit.labs.overthewire.org
-lvl1 = 6y2kwnwK6grgvwvpvLaa2T1cpFEKOhNR
-lvl2 : PK8fYLZg2hnHSz83plBL1iEPKdD3QToB
+lvl0 :
+ssh -p 2220 bandit0@bandit.labs.overthewire.org
+
+lvl1 :
+ 
+6y2kwnwK6grgvwvpvLaa2T1cpFEKOhNR
+
+lvl2 :
+
+PK8fYLZg2hnHSz83plBL1iEPKdD3QToB
 
 
