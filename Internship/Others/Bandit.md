@@ -48,3 +48,7 @@ base64 -d data.txt
 pYfOY6HwUsDj5rL9UvyhU7MCmv8vN5Ro
 
 lvl12 :
+cat data.txt | tr 'a-zA-Z' 'n-za-mN-ZA-M'
+GROozWPO8QyN0mGrjUkID0WCYkZiQxrN
+
+lvl13 :
