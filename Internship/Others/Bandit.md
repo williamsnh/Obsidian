@@ -19,3 +19,6 @@ cat -- '...Hiding-From-You'
 xzTXq1rDJQVVAzdv5cHq1TQytTWufAMq
 
 lvl5 :
+file ./*
+cat ./-file07
+6C7h9GD8M6ai5nr7wo1RonrzFjj9yIrG
