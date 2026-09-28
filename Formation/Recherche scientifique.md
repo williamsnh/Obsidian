@@ -7,3 +7,6 @@ Outils recommandés
 - Zotero
 - JabRef
 - Mendeley
+
+Bibliographie automatisée
+- BibTeX
