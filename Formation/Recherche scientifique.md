@@ -6,3 +6,4 @@ Uriliser une bibliothèque de citations
 Outils recommandés 
 - Zotero
 - JabRef
+- Mendeley
