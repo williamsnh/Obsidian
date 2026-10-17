@@ -20,8 +20,10 @@ statut: en planification
 
 - **Aller** : Dusselfel → Cologne (jeu 10 déc) 
 
-- Retour : Cologne → Mannhei (jeu 10 déc) 
+- **Retour** : Cologne → Mannheim (dim 13 déc) 
+![[Pasted image 20261017231756.png|384]]
 
+- **Retour** : Mannheim →  (dim 13 déc) 
 
 
 ---
