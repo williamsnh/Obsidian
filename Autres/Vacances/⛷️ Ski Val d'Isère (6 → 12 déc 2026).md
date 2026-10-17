@@ -1,5 +1,3 @@
-# ⛷️ Ski Val d'Isère (6 → 12 déc 2026)
-
 ## 🚆 Vue d'ensemble
 - **Aller** : Lyon Part-Dieu → Bourg-Saint-Maurice (dim 6 déc), arrivée **15h45**
 ![[Pasted image 20261017233706.png]]
@@ -12,11 +10,8 @@
 
 ---
 
-## 🏔️ Val d'Isère
-- Neige la plus fiable début décembre (altitude), ouverture prévue le **28 nov** (dates prévisionnelles)
-- Forfait **Espace Killy** : Val d'Isère + Tignes
-- Logement à **La Daille** : moins cher, accès direct aux pistes, navettes gratuites vers le centre
-
+## 🏔️ Val d'Isère Hébergement
+- 
 ---
 
 ## 🗓️ Itinéraire
