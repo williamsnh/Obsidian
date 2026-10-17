@@ -18,7 +18,9 @@ statut: en planification
 ![[Pasted image 20261017230306.png]]
 ![[Pasted image 20261017230331.png]]
 
-- **Retour** : Dusselfel → Allemagne (Phantasialand) puis retour à Lyon (dim 13 déc)
+- **Aller** : Dusselfel → Cologne (jeu 10 déc) 
+
+- Retour : Cologne → Mannhei (jeu 10 déc) 
 
 
 
