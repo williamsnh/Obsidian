@@ -14,7 +14,8 @@ statut: en planification
 ![[Pasted image 20261017191936.png|516]]
 ![[Pasted image 20261017192002.png|334]]
 
-- **Aller** : Prague (sam 5 déc) → 
+- **Aller** : Prague → Lyon (jeu 10 déc) 
+![[Pasted image 20261017230306.png]]
 
 - **Retour** : Prague → Allemagne (Phantasialand) puis retour à Lyon (dim 13 déc)
 
