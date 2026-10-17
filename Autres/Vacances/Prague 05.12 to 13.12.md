@@ -12,31 +12,14 @@ statut: en planification
 ##  Vue d'ensemble
 - **Aller** : Lyon → Prague (sam 5 déc)
 
-- **Retour** : Prague → Allemagne (Phantasialand) **ou** Pays-Bas (Efteling), puis retour à Lyon (dim 13 déc)
-- **Profil** : étudiants, budget serré
+- **Retour** : Prague → Allemagne (Phantasialand) puis retour à Lyon (dim 13 déc)
+
 
 ---
 
-## 🎢 Choix du parc
+## 🎢 Phantasia
 
-> [!success] Recommandation : Phantasialand
-> Logistique plus simple (Cologne à côté), plus de sensations fortes, marchés de Noël de Cologne en bonus.
 
-| | Phantasialand (Brühl) | Efteling (Kaatsheuvel) |
-|---|---|---|
-| Événement hiver | Wintertraum 14/11/2026 → 24/01/2027 | Winter Efteling 16/11/2026 → 31/01/2027 |
-| Horaires | généralement 11h–20h | min. 11h–18h |
-| Ambiance | sensations fortes + illuminations | contes de fées, plus calme |
-| Nouveautés | spectacles d'hiver, light show | patinoire, Raveleijn rouvre le 3/12 |
-| Tarif | jusqu'à ~78 € (prévente 29 € terminée le 28/09) | à vérifier |
-| Accès | proche Cologne, aéroports CGN/DUS | isolé, bus depuis Tilburg/Breda (à vérifier) |
-| Points faibles | attractions aquatiques fermées | peu de choses autour |
-
-> [!note] Billets du soir Efteling
-> Uniquement du 21/12 au 03/01 → non valables pour notre séjour.
-
-![[screen_phantasialand_billets.png]]
-![[screen_efteling_horaires.png]]
 
 ---
 
@@ -51,8 +34,6 @@ statut: en planification
 | Sam 12 déc | Cologne : cathédrale, marchés de Noël |
 | Dim 13 déc | 🚆 Retour Lyon (probablement via Paris, longue journée) |
 
-> [!tip] Variante Efteling
-> Même structure : Prague → vol vers Eindhoven ou Amsterdam → base à Tilburg/Breda → parc en semaine.
 
 ---
 
