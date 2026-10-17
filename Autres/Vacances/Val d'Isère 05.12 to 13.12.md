@@ -1,23 +1,19 @@
-![[Pasted image 20261017233706.png]]
+
 
 ![[Pasted image 20261017234055.png]]
 
-![[Pasted image 20261017234528.png]]
+
 
 # ⛷️ Ski Val d'Isère (6 → 12 déc 2026)
 
 ## 🚆 Vue d'ensemble
 - **Aller** : Lyon Part-Dieu → Bourg-Saint-Maurice (dim 6 déc), arrivée **15h45**
-![[screen train aller]]
+![[Pasted image 20261017233706.png]]
 
-- **Aller** : navette S82 Bourg-Saint-Maurice → Val d'Isère (dim 6 déc), arrêt **gare routière de La Daille** (~45 min–1h)
-![[screen navette aller]]
-
-- **Retour** : navette Val d'Isère → Bourg-Saint-Maurice (sam 12 déc)
-![[screen navette retour]]
+- **Aller-Retour** : navette S82 Bourg-Saint-Maurice → Val d'Isère (dim 6 déc), arrêt **gare routière de La Daille** (~45 min–1h)
 
 - **Retour** : Bourg-Saint-Maurice → Lyon (sam 12 déc)
-![[screen train retour]]
+![[Pasted image 20261017234528.png]]
 
 ---
 
