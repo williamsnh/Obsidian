@@ -23,7 +23,8 @@ statut: en planification
 - **Retour** : Cologne → Mannheim (dim 13 déc) 
 ![[Pasted image 20261017231756.png|384]]
 
-- **Retour** : Mannheim →  (dim 13 déc) 
+- **Retour** : Mannheim → Lyon (dim 13 déc) 
+
 
 
 ---
