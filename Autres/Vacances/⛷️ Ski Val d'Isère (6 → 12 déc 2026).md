@@ -11,7 +11,7 @@
 ---
 
 ## 🏔️ Val d'Isère Hébergement
-- 
+- Voir 18-25 programme ou réduction CSE hébergement
 ---
 
 ## 🗓️ Itinéraire
