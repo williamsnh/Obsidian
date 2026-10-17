@@ -53,17 +53,17 @@ statut: en planification
 
 ## 💶 Budget (à remplir)
 
-| Poste | Estimation | Réel |
-|---|---|---|
-| Vol Lyon → Prague | | |
-| Vol Prague → Düsseldorf | | |
-| Retour → Lyon | | |
-| Hébergement Prague | | |
-| Hébergement Cologne | | |
-| Billets parc (×2) | | |
-| Transports locaux | | |
-| Repas / sorties | | |
-| **Total** | | |
+| Poste                   | Estimation | Réel |
+| ----------------------- | ---------- | ---- |
+| Vol Lyon → Prague       |            |      |
+| Vol Prague → Düsseldorf |            |      |
+| Retour → Lyon           |            |      |
+| Hébergement Prague      |            |      |
+| Hébergement Cologne     |            |      |
+| Billets parc (×2)       |            |      |
+| Transports locaux       |            |      |
+| Repas / sorties         |            |      |
+| **Total**               |            |      |
 
 ---
 
