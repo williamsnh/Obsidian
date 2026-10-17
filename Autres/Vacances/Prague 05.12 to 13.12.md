@@ -14,11 +14,11 @@ statut: en planification
 ![[Pasted image 20261017191936.png|516]]
 ![[Pasted image 20261017192002.png|334]]
 
-- **Aller** : Prague → Lyon (jeu 10 déc) 
+- **Aller** : Prague → Dusselfel (jeu 10 déc) 
 ![[Pasted image 20261017230306.png]]
 ![[Pasted image 20261017230331.png]]
 
-- **Retour** : Prague → Allemagne (Phantasialand) puis retour à Lyon (dim 13 déc)
+- **Retour** : Dusselfel → Allemagne (Phantasialand) puis retour à Lyon (dim 13 déc)
 
 
 
