@@ -24,7 +24,7 @@ statut: en planification
 ![[Pasted image 20261017231756.png|384]]
 
 - **Retour** : Mannheim → Lyon (dim 13 déc) 
-
+![[Pasted image 20261017231955.png]]
 
 
 ---
@@ -45,7 +45,7 @@ statut: en planification
 | Jeu 10 déc | ✈️ Prague → Düsseldorf (fin de journée), nuit à Cologne                                              |
 | Ven 11 déc | 🎢 Phantasialand (vendredi = moins de monde, ouvert jusqu'à 20h)                                     |
 | Sam 12 déc | Cologne : cathédrale, marchés de Noël                                                                |
-| Dim 13 déc | 🚆 Retour Lyon (probablement via Paris, longue journée)                                              |
+| Dim 13 déc | 🚆 Retour Lyon (longue journée)                                                                      |
 
 
 ---
