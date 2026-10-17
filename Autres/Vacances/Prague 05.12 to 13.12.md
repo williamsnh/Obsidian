@@ -11,9 +11,11 @@ statut: en planification
 
 ##  Vue d'ensemble
 - **Aller** : Lyon → Prague (sam 5 déc)
-![[Pasted image 20261017191936.png]]
-![[Pasted image 20261017192002.png]]
+![[Pasted image 20261017191936.png|516]]
+![[Pasted image 20261017192002.png|334]]
+
 - **Retour** : Prague → Allemagne (Phantasialand) puis retour à Lyon (dim 13 déc)
+
 
 
 ---
@@ -25,16 +27,16 @@ statut: en planification
 
 ---
 
-## 🗓️ Itinéraire (version Phantasialand)
+## 🗓️ Itinéraire
 
-| Date | Programme |
-|---|---|
-| Sam 5 déc | ✈️ Lyon → Prague. Soir de la Saint-Nicolas (diables et anges en ville) |
-| 6 → 9 déc | Prague : Vieille Ville, marchés de Noël, château, Mala Strana, Vyšehrad, Letná, excursion Kutná Hora |
-| Jeu 10 déc | ✈️ Prague → Düsseldorf (fin de journée), nuit à Cologne |
-| Ven 11 déc | 🎢 Phantasialand (vendredi = moins de monde, ouvert jusqu'à 20h) |
-| Sam 12 déc | Cologne : cathédrale, marchés de Noël |
-| Dim 13 déc | 🚆 Retour Lyon (probablement via Paris, longue journée) |
+| Date       | Programme                                                                                            |
+| ---------- | ---------------------------------------------------------------------------------------------------- |
+| Sam 5 déc  | ✈️ Lyon → Prague. Soir de la Saint-Nicolas (diables et anges en ville)                               |
+| 6 → 9 déc  | Prague : Vieille Ville, marchés de Noël, château, Mala Strana, Vyšehrad, Letná, excursion Kutná Hora |
+| Jeu 10 déc | ✈️ Prague → Düsseldorf (fin de journée), nuit à Cologne                                              |
+| Ven 11 déc | 🎢 Phantasialand (vendredi = moins de monde, ouvert jusqu'à 20h)                                     |
+| Sam 12 déc | Cologne : cathédrale, marchés de Noël                                                                |
+| Dim 13 déc | 🚆 Retour Lyon (probablement via Paris, longue journée)                                              |
 
 
 ---
