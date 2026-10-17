@@ -1,9 +1,3 @@
-
-
-![[Pasted image 20261017234055.png]]
-
-
-
 # ⛷️ Ski Val d'Isère (6 → 12 déc 2026)
 
 ## 🚆 Vue d'ensemble
@@ -11,6 +5,7 @@
 ![[Pasted image 20261017233706.png]]
 
 - **Aller-Retour** : navette S82 Bourg-Saint-Maurice → Val d'Isère (dim 6 déc), arrêt **gare routière de La Daille** (~45 min–1h)
+![[Pasted image 20261017234055.png]]
 
 - **Retour** : Bourg-Saint-Maurice → Lyon (sam 12 déc)
 ![[Pasted image 20261017234528.png]]
@@ -33,18 +28,6 @@
 | Sam 12 déc  | 🚌 Navette → Bourg, 🚆 retour Lyon (partir assez tôt, peu de trains)    |
 
 ---
-
-## ✅ To-do
-- [ ] Vérifier les horaires hiver du bus S82 (Altibus), s'inscrire à l'alerte email
-- [ ] Vérifier qu'un bus part peu après 15h45
-- [ ] Réserver le train aller et retour
-- [ ] Réserver le logement à La Daille (6 nuits)
-- [ ] Prévenir le logement de l'arrivée vers 17h
-- [ ] Réserver le forfait Espace Killy et la location de matériel
-- [ ] Vérifier le bulletin d'enneigement ~1 semaine avant
-
----
-
 ## 💶 Budget (à remplir)
 
 | Poste                     | Estimation | Réel |
