@@ -14,6 +14,8 @@ statut: en planification
 ![[Pasted image 20261017191936.png|516]]
 ![[Pasted image 20261017192002.png|334]]
 
+- **Aller** : Prague (sam 5 déc) → 
+
 - **Retour** : Prague → Allemagne (Phantasialand) puis retour à Lyon (dim 13 déc)
 
 
@@ -67,10 +69,5 @@ statut: en planification
 
 ---
 
-## 📸 Screens / liens utiles
-![[screen_vols_lyon_prague.png]]
-![[screen_hebergement_prague.png]]
-![[screen_hebergement_cologne.png]]
 
 - Phantasialand : phantasialand.de
-- Efteling : efteling.com
