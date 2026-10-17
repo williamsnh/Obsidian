@@ -42,16 +42,12 @@ statut: en planification
 ---
 
 ## ✅ To-do
-- [ ] Trancher Phantasialand vs Efteling
 - [ ] Comparer vols Lyon → Prague (Google Flights / Skyscanner)
 - [ ] Comparer vols Prague → Düsseldorf / Cologne-Bonn
 - [ ] Trouver le retour vers Lyon (vol direct ou train via Paris)
 - [ ] Réserver l'hébergement Prague (5 nuits)
 - [ ] Réserver l'hébergement Cologne (3 nuits)
 - [ ] Acheter les billets du parc (date choisie : ven 11 déc)
-- [ ] Pass transport Prague 72h
-- [ ] Vérifier réductions étudiantes (ISIC, musées)
-- [ ] Vérifier validité des cartes d'identité
 
 ---
 
