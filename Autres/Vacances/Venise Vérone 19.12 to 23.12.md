@@ -1,4 +1,4 @@
-# Italie – Noël 2026 (19-23 déc.)
+
 
 ## Sam 19 – Venise
 - [ ] Vol Lyon → Venise + bus vers le centre
