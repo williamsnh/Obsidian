@@ -33,7 +33,10 @@
 ---
 
 ## Hébergement
+#### Venise
+![[Pasted image 20261101142544.png]]
 
+#### Vérône
 
 
 
