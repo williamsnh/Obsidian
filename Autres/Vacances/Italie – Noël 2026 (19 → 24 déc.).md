@@ -1,4 +1,4 @@
-Venise → Vérone → Milan
+**Venise → Vérone → Milan**
 
 ## Transports
 
@@ -15,6 +15,20 @@ Venise → Vérone → Milan
 ![[Pasted image 20261101141223.png]]
 
 ### Transports locaux
+
+#### Venise
+- Aéroport → centre (bus ATVO ou ACTV)
+- Vaporetto (ticket unique ou pass 24 h)
+- Traghetto (traversée du Grand Canal)
+
+#### Vérone
+- À pied (tout le centre se fait à pied)
+- Bus urbain (seulement si besoin)
+
+#### Milan
+- Gare Centrale → hébergement (métro)
+- Métro / tram (ticket unique ou pass 24 h)
+
 
 
 ---
