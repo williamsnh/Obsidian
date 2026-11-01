@@ -23,6 +23,15 @@ Venise → Vérone → Milan
 
 ---
 
+| Date    | Jour | Ville           | Nuit   | Transport du jour                       | À faire / voir                                                 | À goûter                       |
+| ------- | ---- | --------------- | ------ | --------------------------------------- | -------------------------------------------------------------- | ------------------------------ |
+| 19 déc. | Sam  | Venise          | Venise | Vol Lyon → Venise + bus vers le centre  | Cannaregio, bacari                                             | Cicchetti, baccalà mantecato   |
+| 20 déc. | Dim  | Venise          | Venise | À pied, traghetto ou vaporetto          | Saint-Marc, Rialto, Dorsoduro, Zattere                         | Sarde in saor, risi e bisi     |
+| 21 déc. | Lun  | Venise → Vérone | Vérone | Train Regionale Venise → Vérone (~1h30) | Piazza Bra, Arena, marché de Noël                              | Risotto à l'Amarone, vin chaud |
+| 22 déc. | Mar  | Vérone → Milan  | Milan  | Train Regionale Vérone → Milan (~2h)    | Casa di Giulietta, Ponte Pietra, puis Duomo illuminé, Galleria | Pandoro, risotto alla milanese |
+| 23 déc. | Mer  | Milan           | Milan  | Métro / à pied                          | Duomo, château des Sforza, Brera, Navigli                      | Aperitivo, panettone           |
+| 24 déc. | Jeu  | Milan → Lyon    | –      | Train direct (~4h40) ou avion           | Petit-déj, départ                                              | –                              |
+
 ## 📅 Sam 19 – Venise
 - [ ] Vol Lyon → Venise + bus vers le centre
 - [ ] Balade à Cannaregio
