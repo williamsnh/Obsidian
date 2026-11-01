@@ -3,10 +3,7 @@ Venise → Vérone → Milan
 ## Transports
 
 ### Lyon → Venise (sam 19)
-
-
-### Aéroport Venise → centre
-
+![[Pasted image 20261101140309.png]]
 
 ### Venise → Vérone (lun 21)
 
