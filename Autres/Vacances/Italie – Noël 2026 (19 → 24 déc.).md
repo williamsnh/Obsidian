@@ -6,7 +6,7 @@ Venise → Vérone → Milan
 ![[Pasted image 20261101140309.png]]
 
 ### Venise → Vérone (lun 21)
-
+![[Pasted image 20261101140834.png]]
 
 ### Vérone → Milan (mar 22)
 
