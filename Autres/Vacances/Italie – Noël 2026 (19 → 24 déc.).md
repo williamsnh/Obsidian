@@ -37,7 +37,9 @@
 ![[Pasted image 20261101142544.png]]
 
 #### Vérône
+![[Pasted image 20261101142752.png]]
 
+#### Milan
 
 
 ---
