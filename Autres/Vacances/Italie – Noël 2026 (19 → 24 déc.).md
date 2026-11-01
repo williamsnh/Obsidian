@@ -42,6 +42,9 @@
 #### Milan
 ![[Pasted image 20261101143228.png]]
 
+#### Total
+100 + 59 + 159 = 318€
+
 ---
 
 ## Récapitulatif
