@@ -4,10 +4,12 @@
 
 - **Aller** : Venise → Vérône (lundi 10 déc) 
 
+
  - **Retour** : Venise → Vérône (lundi 10 déc) 
  
 
  - **Retour** : Venise → Vérône (lundi 10 déc) 
+
 
 ## Sam 19 – Venise
 - [ ] Vol Lyon → Venise + bus vers le centre
