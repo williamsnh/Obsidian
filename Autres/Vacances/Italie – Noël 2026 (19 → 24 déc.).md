@@ -30,6 +30,12 @@
 - Métro / tram (ticket unique ou pass 24 h)
 
 
+---
+
+## Hébergement
+
+
+
 
 ---
 
