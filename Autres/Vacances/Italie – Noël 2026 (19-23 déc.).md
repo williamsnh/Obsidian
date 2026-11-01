@@ -1,5 +1,8 @@
 ##  Vue d'ensemble
 - **Aller** : Lyon → Venise (sam 19 déc)
+![[Pasted image 20261101132927.png]]
+
+- **Aller** : Prague → Dusselfel (jeu 10 déc) 
 
 
 ## Sam 19 – Venise
