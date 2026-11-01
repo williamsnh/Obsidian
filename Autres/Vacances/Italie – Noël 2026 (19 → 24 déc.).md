@@ -60,6 +60,9 @@
 | 23 déc. | Mer  | Milan           | Milan  | Métro / à pied                          | Duomo, château des Sforza, Brera, Navigli                      | Aperitivo, panettone           |
 | 24 déc. | Jeu  | Milan → Lyon    | –      | Train direct (~4h40) ou avion           | Petit-déj, départ                                              | –                              |
 
+#### Total
+318 + 193 = 511€
+
 ---
 
 ## Programme
