@@ -1,27 +1,28 @@
-
 Venise → Vérone → Milan
 
-## 🚆 Transports
+## Transports
 
-#### ✈️ Lyon → Venise (sam 19)
-
-
-### 🚌 Aéroport Venise → centre
+### Lyon → Venise (sam 19)
 
 
-### 🚆 Venise → Vérone (lun 21)
+### Aéroport Venise → centre
 
 
-### 🚆 Vérone → Milan (mar 22)
+### Venise → Vérone (lun 21)
 
 
-### 🚆 Milan → Lyon (jeu 24 matin)
+### Vérone → Milan (mar 22)
 
 
-### 🚇 Transports locaux
+### Milan → Lyon (jeu 24 matin)
+
+
+### Transports locaux
 
 
 ---
+
+## Récapitulatif
 
 | Date    | Jour | Ville           | Nuit   | Transport du jour                       | À faire / voir                                                 | À goûter                       |
 | ------- | ---- | --------------- | ------ | --------------------------------------- | -------------------------------------------------------------- | ------------------------------ |
@@ -32,26 +33,30 @@ Venise → Vérone → Milan
 | 23 déc. | Mer  | Milan           | Milan  | Métro / à pied                          | Duomo, château des Sforza, Brera, Navigli                      | Aperitivo, panettone           |
 | 24 déc. | Jeu  | Milan → Lyon    | –      | Train direct (~4h40) ou avion           | Petit-déj, départ                                              | –                              |
 
-## 📅 Sam 19 – Venise
+---
+
+## Programme
+
+### Sam 19 – Venise
 - [ ] Vol Lyon → Venise + bus vers le centre
 - [ ] Balade à Cannaregio
 - [ ] Cicchetti + ombra dans un bacaro
 
-## 📅 Dim 20 – Venise
+### Dim 20 – Venise
 - [ ] Place Saint-Marc tôt le matin
 - [ ] Pont du Rialto et marché
 - [ ] Traversée du Grand Canal (traghetto ou vaporetto)
 - [ ] Dorsoduro, coucher de soleil aux Zattere
 - [ ] Dîner dans une trattoria hors des grandes places
 
-## 📅 Lun 21 – Venise → Vérone
+### Lun 21 – Venise → Vérone
 - [ ] Matin : dernière balade à Venise (ou Burano si temps)
 - [ ] Train Venise → Vérone
 - [ ] Piazza Bra, Arena et son étoile de Noël
 - [ ] Marché de Noël (Piazza dei Signori)
 - [ ] Dîner : risotto à l'Amarone
 
-## 📅 Mar 22 – Vérone → Milan
+### Mar 22 – Vérone → Milan
 - [ ] Matin : Casa di Giulietta, Piazza delle Erbe
 - [ ] Ponte Pietra et théâtre romain
 - [ ] Goûter un pandoro
@@ -60,7 +65,7 @@ Venise → Vérone → Milan
 - [ ] Galleria Vittorio Emanuele II
 - [ ] Dîner : risotto alla milanese ou cotoletta
 
-## 📅 Mer 23 – Milan
+### Mer 23 – Milan
 - [ ] Duomo (intérieur payant, tarif étudiant possible)
 - [ ] Château des Sforza (cour gratuite) + parc Sempione
 - [ ] Quartier Brera
@@ -68,13 +73,13 @@ Venise → Vérone → Milan
 - [ ] Soirée : aperitivo aux Navigli (verre + buffet)
 - [ ] Acheter un panettone en souvenir
 
-## 📅 Jeu 24 – Retour
+### Jeu 24 – Retour
 - [ ] Petit-déj au comptoir
 - [ ] Train ou avion Milan → Lyon
 
 ---
 
-## 🏨 Hébergements
+## Hébergements
 
 ### Venise (2 nuits)
 
@@ -85,13 +90,17 @@ Venise → Vérone → Milan
 ### Milan (2 nuits)
 
 
-## 💶 Budget total
+---
+
+## Budget total
 - Transports : 
 - Hébergement : 
 - Nourriture / sorties : 
 - **Total : **
 
-## 🍽️ À goûter
+---
+
+## À goûter
 - [ ] Cicchetti, baccalà mantecato, sarde in saor
 - [ ] Risotto à l'Amarone
 - [ ] Pandoro
@@ -100,7 +109,9 @@ Venise → Vérone → Milan
 - [ ] Tiramisù
 - [ ] Vin chaud
 
-## ⚠️ À vérifier
+---
+
+## À vérifier
 - [ ] Horaires de train (changement le 13 déc.)
 - [ ] Horaires du 24 déc. (souvent réduits)
 - [ ] Dates exactes des marchés de Noël
