@@ -12,7 +12,7 @@ Venise → Vérone → Milan
 ![[Pasted image 20261101141017.png]]
 
 ### Milan → Lyon (jeu 24 matin)
-
+![[Pasted image 20261101141223.png]]
 
 ### Transports locaux
 
