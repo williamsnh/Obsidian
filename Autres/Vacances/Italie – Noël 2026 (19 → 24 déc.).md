@@ -9,7 +9,7 @@ Venise → Vérone → Milan
 ![[Pasted image 20261101140834.png]]
 
 ### Vérone → Milan (mar 22)
-
+![[Pasted image 20261101141017.png]]
 
 ### Milan → Lyon (jeu 24 matin)
 
