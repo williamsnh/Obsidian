@@ -29,6 +29,8 @@
 - Gare Centrale → hébergement (métro)
 - Métro / tram (ticket unique ou pass 24 h)
 
+#### Total
+46 + 59 + 11 + 18 + 59 = 193 €
 
 ---
 
