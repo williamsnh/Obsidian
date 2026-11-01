@@ -2,8 +2,12 @@
 - **Aller** : Lyon → Venise (sam 19 déc)
 ![[Pasted image 20261101132927.png]]
 
-- **Aller** : Prague → Dusselfel (jeu 10 déc) 
+- **Aller** : Venise → Vérône (lundi 10 déc) 
 
+ - **Retour** : Venise → Vérône (lundi 10 déc) 
+ 
+
+ - **Retour** : Venise → Vérône (lundi 10 déc) 
 
 ## Sam 19 – Venise
 - [ ] Vol Lyon → Venise + bus vers le centre
