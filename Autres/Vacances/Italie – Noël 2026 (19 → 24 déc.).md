@@ -40,7 +40,7 @@
 ![[Pasted image 20261101142752.png]]
 
 #### Milan
-
+![[Pasted image 20261101143228.png]]
 
 ---
 
