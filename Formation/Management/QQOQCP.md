@@ -16,7 +16,8 @@
 	- A - Argent
 	- S - Sympathique
 	- E - Environnement
-- objection
+- objection :
+	- justifier et/ou être sincère
 **P(ourquoi) :** obtenir ce que l'on veut
 
 ==🟡**Matrice PADU**==
