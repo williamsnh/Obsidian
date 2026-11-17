@@ -8,7 +8,7 @@
 - passé/présent
 - futur
 - ressentie
-- perso : 
+- perso : SONCASE
 **P(ourquoi) :** obtenir ce que l'on veut
 
 ==🟡**Matrice PADU**==
