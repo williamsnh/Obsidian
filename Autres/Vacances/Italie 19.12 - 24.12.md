@@ -9,7 +9,7 @@ Ancienne capitale royale au pied des Alpes, connue pour la Mole Antonelliana, so
 
 
 ### Turin → Lyon (mer 24 au soir)
-
+![[IMG_20261117_162002.jpg]]
 
 
 ### Transports locaux
