@@ -18,6 +18,7 @@
 	- E - Environnement
 - objection :
 	- justifier et/ou être sincère
+	- 
 **P(ourquoi) :** obtenir ce que l'on veut
 
 ==🟡**Matrice PADU**==
