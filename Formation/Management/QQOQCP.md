@@ -5,7 +5,11 @@
 **C(omment) :** 
 **P(ourquoi) :** prendre soin
 
-==🟡**Management :**== 
+Matrice PADU
+P(rioritaire) :
+
+
+==🟡**Management**== 
 Prendre soin de soi, des autres et de son entreprise
 
 
