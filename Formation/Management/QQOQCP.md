@@ -1,9 +1,10 @@
-Q : 
-Q : 
-O : 
-Q : 
-C : 
-P : 
+**Q :** 
+**Q :** 
+**O :** 
+**Q :** 
+**C :** 
+**P :** 
 
-**Management :** 
-Prendre soin de soi-même et des autres
+==🟡**Management :**== 
+Prendre soin de soi, des autres
+
