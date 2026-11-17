@@ -4,10 +4,11 @@
 **O(u) :** Le lieu
 **Q(uand) :** Le calendrier, les délais, la fréquence
 **C(omment) :** Les moyens, méthodes, étapes, ressources (feuille, carnet, stylo --> lors d'un entretien = la préparer à l'avance)
---> première question à poser : questions sur situation actuelle et pendant
+--> première question à poser : 
 - passé/présent
 - futur
 - ressentie
+- perso : 
 **P(ourquoi) :** obtenir ce que l'on veut
 
 ==🟡**Matrice PADU**==
