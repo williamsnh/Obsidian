@@ -8,7 +8,14 @@
 - passé/présent
 - futur
 - ressentie
-- perso : SONCASE
+- perso : 
+	- S - Sécurité
+	- O - Orgueil
+	- N - Nouveauté
+	- C - Confort
+	- A - Argent
+	- S - Sympathique
+	- E - E
 **P(ourquoi) :** obtenir ce que l'on veut
 
 ==🟡**Matrice PADU**==
