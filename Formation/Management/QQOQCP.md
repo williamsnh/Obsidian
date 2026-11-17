@@ -3,7 +3,7 @@
 **O(u) :** 
 **Q(uand) :** 
 **C(omment) :** 
-**P(ourquoi) :** prendre soin
+**P(ourquoi) :** obtenir ce qu'on veut
 
 ==🟡**Matrice PADU**==
 **P(rescripteur) :** 
