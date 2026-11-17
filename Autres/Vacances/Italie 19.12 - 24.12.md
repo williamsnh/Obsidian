@@ -1,18 +1,11 @@
 ## Transports
 
-### Lyon → Turin (sam 18)
+### Lyon → Turin (sam 19)
 
 
-### Paris → Amsterdam (sam 19)
 
+### Turin → Lyon (mer 24)
 
-### Amsterdam → Haarlem / Utrecht (excursions)
-
-
-### Amsterdam → Paris (mer 23)
-
-
-### Paris → Lyon (jeu 24)
 
 
 ### Transports locaux
