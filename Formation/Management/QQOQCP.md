@@ -3,7 +3,7 @@
 **Q(uoi) :** L’objet, l’action, le problème (objets négo)
 **O(u) :** Le lieu
 **Q(uand) :** Le calendrier, les délais, la fréquence
-**C(omment) :** Les moyens, méthodes, étapes, ressources (feuille, carnet, stylo)
+**C(omment) :** Les moyens, méthodes, étapes, ressources (feuille, carnet, stylo --> lors d'un entretien = la préparer à l'avance)
 **P(ourquoi) :** obtenir ce que l'on veut
 
 ==🟡**Matrice PADU**==
