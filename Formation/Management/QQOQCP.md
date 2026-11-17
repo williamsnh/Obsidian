@@ -15,7 +15,7 @@
 	- C - Confort
 	- A - Argent
 	- S - Sympathique
-	- E - E
+	- E - Environnement
 **P(ourquoi) :** obtenir ce que l'on veut
 
 ==🟡**Matrice PADU**==
