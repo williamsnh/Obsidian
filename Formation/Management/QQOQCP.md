@@ -1,8 +1,8 @@
-**Q(ui) :** 
-**Q(uoi) :** 
-**O(u) :** 
-**Q(uand) :** 
-**C(omment) :** 
+**Q(ui) :** Les personnes concernées : acteurs, cibles, responsables
+**Q(uoi) :** L’objet, l’action, le problème
+**O(u) :** Le lieu, le canal, le périmètre
+**Q(uand) :** Le calendrier, les délais, la fréquence
+**C(omment) :** Les moyens, méthodes, étapes, ressources
 **P(ourquoi) :** obtenir ce que l'on veut
 
 ==🟡**Matrice PADU**==
