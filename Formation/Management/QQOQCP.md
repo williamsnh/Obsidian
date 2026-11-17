@@ -14,7 +14,7 @@
 ==🟡**Management**== 
 Prendre soin de soi, des autres et de son entreprise
 
-
+Empathie émotionnelle : comprendre les émotions
 
 
 
