@@ -16,6 +16,7 @@
 	- A - Argent
 	- S - Sympathique
 	- E - Environnement
+- objections 
 **P(ourquoi) :** obtenir ce que l'on veut
 
 ==🟡**Matrice PADU**==
