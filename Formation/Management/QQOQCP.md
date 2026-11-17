@@ -1,6 +1,6 @@
-QQOQCP dans les situations de négociatio
+**==🟡QQOQCP dans les situations de négociations==**
 **Q(ui) :** Les personnes concernées : acteurs, cibles, responsables
-**Q(uoi) :** L’objet, l’action, le problème
+**Q(uoi) :** L’objet, l’action, le problème (objets négo)
 **O(u) :** Le lieu
 **Q(uand) :** Le calendrier, les délais, la fréquence
 **C(omment) :** Les moyens, méthodes, étapes, ressources
