@@ -3,7 +3,7 @@
 **O(u) :** 
 **Q(uand) :** 
 **C(omment) :** 
-**P(ourquoi) :** obtenir ce qu'on veut
+**P(ourquoi) :** obtenir ce que l'on veut
 
 ==🟡**Matrice PADU**==
 **P(rescripteur) :** 
@@ -13,6 +13,8 @@
 
 ==🟡**Management**== 
 Prendre soin de soi, des autres et de son entreprise
+
+
 
 
 
