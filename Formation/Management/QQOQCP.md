@@ -6,5 +6,7 @@
 **P :** 
 
 ==🟡**Management :**== 
-Prendre soin de soi, des autres
+Prendre soin de soi, des autres et de son entreprise
+
+
 
