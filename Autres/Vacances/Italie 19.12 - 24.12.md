@@ -13,9 +13,8 @@ Ancienne capitale royale au pied des Alpes, connue pour la Mole Antonelliana, so
 
 
 ### Transports locaux
-Application TO Mov pour 
-
-
+Application TO Mov pour acheter billets directement sur téléphone
+--> Métro automatique, tram et bus (bien desservi)
 
 ## Hébergement
 #### Turin
