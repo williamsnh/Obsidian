@@ -1,9 +1,9 @@
-**Q :** 
+**Q(ui) :** prendre soin
 **Q :** 
 **O :** 
 **Q :** 
 **C :** 
-**P :** 
+**P(ourquoi) :** 
 
 ==🟡**Management :**== 
 Prendre soin de soi, des autres et de son entreprise
