@@ -17,8 +17,7 @@
 	- S - Sympathique
 	- E - Environnement
 - objection :
-	- justifier et/ou être sincère
-	- 
+	- justifier (des faits) et/ou être sincère (ce que je pense)
 **P(ourquoi) :** obtenir ce que l'on veut
 
 ==🟡**Matrice PADU**==
